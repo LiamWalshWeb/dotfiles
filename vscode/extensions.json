@@ -1,0 +1,30 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "Equinusocio.vsc-community-material-theme",
+    "Equinusocio.vsc-material-theme",
+    "equinusocio.vsc-material-theme-icons",
+    "formulahendry.auto-rename-tag",
+    "GitHub.vscode-pull-request-github",
+    "jpoissonnier.vscode-styled-components",
+    "kumar-harsh.graphql-for-vscode",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "ms-vsliveshare.vsliveshare",
+    "Orta.vscode-jest",
+    "pflannery.vscode-versionlens",
+    "PKief.material-icon-theme",
+    "pnp.polacode",
+    "Prisma.vscode-graphql",
+    "ritwickdey.LiveServer",
+    "RobbOwen.synthwave-vscode"
+  ]
+}
